@@ -4,6 +4,7 @@ public class MemberVO {
 	private String id;
 
 	public String getId() {
+		//테스트!! 다시 테스트
 		return id;
 	}
 
